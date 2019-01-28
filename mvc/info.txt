@@ -1,0 +1,24 @@
+1 - MODULE
+  (Data)
+  Name
+  Description
+  etc.
+  It's stored in repository or DB
+
+2 - CONTROLLER
+  (Process user Inputs)
+  Add
+  Delete
+  Update
+  Change
+
+  ROUTER
+    Call Controller
+    Process route users inputs to controller
+
+3 - VIEW
+  (Interface)
+  Show Info
+  Get Inputs
+  Send request to controller
+
