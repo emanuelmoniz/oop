@@ -1,0 +1,4 @@
+id,name,cured,blood_type,room_id
+1,Chuck Norris,FALSE,A,1
+2,Kurt Russel,TRUE,B,1
+3,Patrick,TRUE,B,2
